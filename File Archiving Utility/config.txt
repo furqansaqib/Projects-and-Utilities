@@ -1,0 +1,6 @@
+file_names=crm,outcomes,calls
+Start_date=MTD
+End_date=0
+files_directory=C:\Users\furqan.saqib\.spyder-py3\files
+zip_directory=D:\files\
+file_type=json
